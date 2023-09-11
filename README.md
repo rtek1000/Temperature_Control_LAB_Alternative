@@ -10,9 +10,9 @@ Test codes:
 
 - This is an open loop PID autotuner using a novel s-curve inflection point test method. Tuning parameters are typically determined in about ½Tau on a first-order system with time delay. Full 5Tau testing and multiple serial output options are provided.
 
-    - Compatible with PID_v1 135, QuickPID 145 and others
-    - Serial output option for PID Tuner 230
-    - Tested using Temperature Control Lab 143
+    - Compatible with [PID_v1](https://github.com/br3ttb/Arduino-PID-Library), [QuickPID](https://github.com/Dlloydev/QuickPID) and others
+    - Serial output option for [PID Tuner](https://pidtuner.com/#/)
+    - Tested using [Temperature Control Lab](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
 
 Source: https://forum.arduino.cc/t/stune-pid-autotune-library/941939
 
