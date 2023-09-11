@@ -20,7 +20,7 @@ Released under CERN OHL 1.2: https://ohwr.org/cernohl
 ------
 
 Test codes:
-[sTune](https://github.com/Dlloydev/sTune)
+[sTune](https://github.com/Dlloydev/sTune) (MIT license)
 
 ![img](https://europe1.discourse-cdn.com/arduino/original/4X/d/a/c/dace8b3505c77cf28fa6e6d07bb2a02ef82bd720.png)
 
