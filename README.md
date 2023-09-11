@@ -4,6 +4,13 @@ Alternative version of the Arduino "Temperature Control LAB" shield for code tes
 - Heater element: 27R 5W resistor
 - Temperature sensor LM35
 
+--------
+
+## Licence:
+
+#### Hardware:
+Released under CERN OHL 1.2: https://ohwr.org/cernohl
+
 ------
 
 Test codes:
