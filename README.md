@@ -1,7 +1,7 @@
 # Temperature_Control_LAB_Alternative
 Alternative version of the Arduino "Temperature Control LAB" shield for code testing
 - Transistor BC338
-- Heater element reistor 27R 5W
+- Heater element: 27R 5W resistor
 - Temperature sensor LM35
 
 ------
