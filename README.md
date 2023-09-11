@@ -18,6 +18,9 @@ Source: https://forum.arduino.cc/t/stune-pid-autotune-library/941939
 
 ------
 Temperature Control Lab - Original board:
+- Transistor TIP31
+- Temperature sensor TMP36
+
 ![img](https://apmonitor.com/pdc/uploads/Main/tclab_schematic.png)
 
 Source: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?params=/context/facpub/article/4888/&path_info=2020_park_tclab.pdf
