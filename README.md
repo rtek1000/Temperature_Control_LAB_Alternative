@@ -14,9 +14,11 @@ Test codes:
     - Serial output option for PID Tuner 230
     - Tested using Temperature Control Lab 143
 
-https://forum.arduino.cc/t/stune-pid-autotune-library/941939
+Source: https://forum.arduino.cc/t/stune-pid-autotune-library/941939
 
 ------
 Temperature Control Lab - Original board:
 ![img](https://d3i71xaburhd42.cloudfront.net/f2363a762b89f6d69cbe0ab6444c65474e10d614/6-Figure2-1.png)
+
+Source: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?params=/context/facpub/article/4888/&path_info=2020_park_tclab.pdf
 
