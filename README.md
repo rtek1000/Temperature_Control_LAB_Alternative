@@ -4,6 +4,8 @@ Alternative version of the Arduino "Temperature Control LAB" shield for code tes
 - Heater element: 27R 5W resistor
 - Temperature sensor LM35
 
+![img](https://raw.githubusercontent.com/rtek1000/Temperature_Control_LAB_Alternative/main/PCB/Schematic.png)
+
 --------
 
 ## Licence:
